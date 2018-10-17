@@ -103,12 +103,19 @@
     "@angular-devkit/core" "0.8.5"
     rxjs "~6.2.0"
 
-"@angular/animations@^6.1.0":
+"@angular/animations@^6.1.10":
   version "6.1.10"
   resolved "https://registry.yarnpkg.com/@angular/animations/-/animations-6.1.10.tgz#4ab9b9a6c25e0cca781588700daa9efc33a722e4"
   integrity sha512-dd/lq7kw3uwfHPICan8psu2nthuUpp7PvMLuNIm0XxObZ4oNs0ls6uxKEDPnEkRKoGdiJpvmsyzZZN9ACMPEAA==
   dependencies:
     tslib "^1.9.0"
+
+"@angular/cdk@^6.4.7":
+  version "6.4.7"
+  resolved "https://registry.yarnpkg.com/@angular/cdk/-/cdk-6.4.7.tgz#1549b304dd412e82bd854cc55a7d5c6772ee0411"
+  integrity sha512-18x0U66fLD5kGQWZ9n3nb75xQouXlWs7kUDaTd8HTrHpT1s2QIAqlLd1KxfrYiVhsEC2jPQaoiae7VnBlcvkBg==
+  dependencies:
+    tslib "^1.7.1"
 
 "@angular/cli@~6.2.5":
   version "6.2.5"
@@ -5322,6 +5329,16 @@ pretty-error@^2.0.2:
   dependencies:
     renderkid "^2.0.1"
     utila "~0.4"
+
+primeicons@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/primeicons/-/primeicons-1.0.0.tgz#90061f168ef6227f21f0a7db8204ffa85cd27aec"
+  integrity sha512-p/hzIjUVccW4eJPhuORHI3AUkDpqfvCQVrjxbFEejnTEdWY4C8fomVfjiaA9jCu83fSQnBHuRIGB96iAR8R6uA==
+
+primeng@^6.1.5:
+  version "6.1.5"
+  resolved "https://registry.yarnpkg.com/primeng/-/primeng-6.1.5.tgz#915cb29ea299b1f9d299d2557410c9ab1769cb58"
+  integrity sha512-tsGm1aMfjMYHJHCBgkDBtsyKkG+luW8VgPwHpK9UjXgmr28kx/UDYM2bQbuC94YgtbG9rhh74QbwLEHWUMV5fg==
 
 process-nextick-args@~1.0.6:
   version "1.0.7"
